@@ -1,9 +1,0 @@
-customers_df
-geolocation_df
-orders_df
-order_items_df
-order_payments_df
-order_reviews_df
-products_df
-product_translation_df
-sellers_df
